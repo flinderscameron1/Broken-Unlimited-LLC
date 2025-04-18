@@ -1,1 +1,2 @@
 # Broken-Unlimited-LLC
+Broken Unlimited LLC wanted to simplify and improve how it manages properties and interacts with tenants. With outdated systems causing inefficiencies, I developed a Java Spring Boot website featuring tools for property listings, tenant portals, and maintenance requests. Backed by a secure database, the website provides an easy-to-use platform that has transformed operations, saved time, and will improve tenant satisfaction through better communication and access.
